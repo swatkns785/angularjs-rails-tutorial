@@ -139,3 +139,27 @@ Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 
 
 
 Started GET "/assets/application-268e01242514b6c0ecf13636dc345141.js?body=1" for ::1 at 2015-03-07 17:26:24 -0500
+
+
+Started GET "/" for ::1 at 2015-03-07 17:59:27 -0500
+Processing by HomesController#index as HTML
+  Rendered homes/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 92ms (Views: 91.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-9508fb89f5825102807b11e3199748d3.css?body=1" for ::1 at 2015-03-07 17:59:28 -0500
+
+
+Started GET "/assets/angular/angular-cdfffae0fb2ac9988e146d6ae8a74266.js?body=1" for ::1 at 2015-03-07 17:59:28 -0500
+
+
+Started GET "/assets/app-1db9b70ba58519a5fc62b7cd5405842d.js?body=1" for ::1 at 2015-03-07 17:59:28 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-07 17:59:28 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-07 17:59:28 -0500
+
+
+Started GET "/assets/application-268e01242514b6c0ecf13636dc345141.js?body=1" for ::1 at 2015-03-07 17:59:28 -0500

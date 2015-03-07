@@ -8,6 +8,7 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 1.2'
 gem 'sass', '3.2.19'
 gem 'bower-rails'
+gem 'angular-rails-templates'
 gem 'foreman'
 gem 'puma'
 
