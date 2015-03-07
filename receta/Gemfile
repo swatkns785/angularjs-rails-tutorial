@@ -9,6 +9,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'sass', '3.2.19'
 gem 'bower-rails'
 gem 'foreman'
+gem 'puma'
 
 group :development, :test do
   gem 'rspec'
