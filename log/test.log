@@ -1,0 +1,9 @@
+  [1m[36m (217.7ms)[0m  [1mDROP DATABASE IF EXISTS "receta_test"[0m
+  [1m[35m (343.9ms)[0m  CREATE DATABASE "receta_test" ENCODING = 'unicode'
+  [1m[36m (0.1ms)[0m  [1m[0m
+  [1m[35m (6.7ms)[0m            SELECT schemaname || '.' || tablename
+          FROM pg_tables
+          WHERE tablename !~ '_prt_' AND schemaname = ANY (current_schemas(false))
+
+  [1m[36m (5.0ms)[0m  [1mselect table_name from information_schema.views where table_schema = 'receta_test'[0m
+  [1m[35m (0.1ms)[0m  
